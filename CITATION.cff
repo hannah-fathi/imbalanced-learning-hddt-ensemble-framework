@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+
+message: "If you use this repository in academic research, please cite it as follows."
+
+type: software
+
+title: "Imbalanced Learning with Hellinger Distance Decision Trees and Ensemble Methods"
+
+authors:
+  - family-names: Fathi
+    given-names: Hannah
+
+repository-code: "https://github.com/hannah-fathi/imbalanced-learning-hddt-ensemble-framework"
+
+version: 1.0.0
+
+date-released: 2025-05-01
+
+abstract: >
+  A research-oriented implementation of imbalance-aware machine learning
+  algorithms including Hellinger Distance Decision Trees (HDDT),
+  multiclass extensions using OVA and OVO strategies,
+  bagging with majority-class under-sampling,
+  and AdaBoost.M1 with SMOTE-based minority oversampling.
+
+keywords:
+  - Machine Learning
+  - Imbalanced Learning
+  - Hellinger Distance Decision Tree
+  - Ensemble Learning
+  - AdaBoost
+  - Bagging
+  - SMOTE
+  - Decision Trees
+
+license: MIT
