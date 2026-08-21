@@ -596,7 +596,6 @@ Future improvements:
 
 ## Hannah Fathi
 
-M.Sc. Artificial Intelligence and Robotics
 
 **Spring 2025**
 
