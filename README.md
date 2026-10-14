@@ -592,20 +592,11 @@ Future improvements:
 
 ---
 
-# Author
-
-## Hannah Fathi
-
-
 **Spring 2025**
 
-Research Interests:
+## Author
 
-* Computer Vision
-* Medical Artificial Intelligence
-* Remote Sensing
-* Explainable AI
-* Machine Learning
+**Hannah Fathi** : Computer Vision · Medical AI · Representation Learning · Explainable AI · Foundation Models
 
 ---
 
